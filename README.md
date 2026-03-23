@@ -1,32 +1,42 @@
-# Sandra Mariela Zilla
+# 💼 Sandra Mariela Zilla
 
-Ingeniera en Sistemas, especialista en ciberseguridad, forensia digital y cloud security.
+[![GitHub followers](https://img.shields.io/github/followers/nanysmz?label=follow&style=flat-square)](https://github.com/nanysmz)
+[![Top Skill](https://img.shields.io/badge/-Cybersecurity-1f618d?style=flat-square&logo=security-scorecard)](https://github.com/nanysmz)
 
-Actualmente: Especialista en Forensia Digital en Dirección de Cibercrimen, Provincia de Buenos Aires; docente universitaria en ciberseguridad.
+Ingeniera en Sistemas con especialidad en ciberseguridad, forensia digital y cloud security.
 
-## Experiencia clave
+🎯  Actual: Especialista en Forensia Digital, Dirección de Cibercrimen (PBA) + docente en ciberseguridad.
+
+## 🔑 Experiencia clave
 
 - Forensia digital, respuesta a incidentes y seguridad de la información
 - Auditorías tecnológicas y gestión de crisis
 - Cloud security y operaciones seguras
 - Liderazgo técnico y capacitación
 
-## Cargos relevantes
+## 🏆 Cargos relevantes
 
-- Especialista en Forensia Digital, Dirección de Cibercrimen
-- Tech Lead, Cloud Security Engineers Team (Edrans)
-- Coordinadora de Auditoría Tecnológica (UNLP, Modernización)
+- 🕵️‍♀️ Especialista en Forensia Digital, Dirección de Cibercrimen
+- ☁️ Tech Lead, Cloud Security Engineers Team (Edrans)
+- 🛡️ Coordinadora de Auditoría Tecnológica (UNLP, Modernización)
 
-## Educación y certificaciones
+## 🎓 Educación y certificaciones
 
 - Ing. en Sistemas de Información (UTN)
 - Magíster en Redes de Datos (UNLP, cursada aprobada)
 - IECB ISO/IEC 27032 Lead Cybersecurity Manager
 - IECB ISO/IEC 27035 Lead Incident Manager
 
-## Contacto
+## 📬 Contacto
 
-- Email: sandrazilla@gmail.com
-- GitHub: https://github.com/nanysmz
+- ✉️ Email: sandrazilla@gmail.com
+- 🐙 GitHub: https://github.com/nanysmz
 
-`Cybersecurity | Digital Forensics | Cloud Security | Incident Response | Teaching`
+
+## 🏷️ Skills
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-004aad?style=flat-square&logo=shield)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-0057b8?style=flat-square&logo=magnet)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-00a3e0?style=flat-square&logo=cloudflare)
+![Incident Response](https://img.shields.io/badge/Incident_Response-cc2121?style=flat-square&logo=incident-command)
+![Teaching](https://img.shields.io/badge/Teaching-8a2be2?style=flat-square&logo=education)
