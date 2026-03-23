@@ -1,16 +1,32 @@
-## Hi there 👋
+# Sandra Mariela Zilla
 
-<!--
-**nanysmz/nanysmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniera en Sistemas, especialista en ciberseguridad, forensia digital y cloud security.
 
-Here are some ideas to get you started:
+Actualmente: Especialista en Forensia Digital en Dirección de Cibercrimen, Provincia de Buenos Aires; docente universitaria en ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiencia clave
+
+- Forensia digital, respuesta a incidentes y seguridad de la información
+- Auditorías tecnológicas y gestión de crisis
+- Cloud security y operaciones seguras
+- Liderazgo técnico y capacitación
+
+## Cargos relevantes
+
+- Especialista en Forensia Digital, Dirección de Cibercrimen
+- Tech Lead, Cloud Security Engineers Team (Edrans)
+- Coordinadora de Auditoría Tecnológica (UNLP, Modernización)
+
+## Educación y certificaciones
+
+- Ing. en Sistemas de Información (UTN)
+- Magíster en Redes de Datos (UNLP, cursada aprobada)
+- IECB ISO/IEC 27032 Lead Cybersecurity Manager
+- IECB ISO/IEC 27035 Lead Incident Manager
+
+## Contacto
+
+- Email: sandrazilla@gmail.com
+- GitHub: https://github.com/nanysmz
+
+`Cybersecurity | Digital Forensics | Cloud Security | Incident Response | Teaching`
