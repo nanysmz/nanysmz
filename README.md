@@ -5,7 +5,7 @@
 
 Ingeniera en Sistemas con especialidad en ciberseguridad, forensia digital y cloud security.
 
-🎯  Actual: Especialista en Forensia Digital, Dirección de Cibercrimen (PBA) + docente en ciberseguridad.
+🎯  Actual: Especialista en Forensia Digital, Docente en ciberseguridad.
 
 ## 🔑 Experiencia clave
 
@@ -16,9 +16,9 @@ Ingeniera en Sistemas con especialidad en ciberseguridad, forensia digital y clo
 
 ## 🏆 Cargos relevantes
 
-- 🕵️‍♀️ Especialista en Forensia Digital, Dirección de Cibercrimen
-- ☁️ Tech Lead, Cloud Security Engineers Team (Edrans)
-- 🛡️ Coordinadora de Auditoría Tecnológica (UNLP, Modernización)
+- 🕵️‍♀️ Especialista en Forensia Digital
+- ☁️ Tech Lead, Cloud Security Engineers Team
+- 🛡️ Coordinadora de Auditoría Tecnológica 
 
 ## 🎓 Educación y certificaciones
 
